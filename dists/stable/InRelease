@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Tue, 29 Sep 2026 13:51:25 +0000
+Label: Kingpin Apps
+Origin: Kingpin Apps
+Suite: stable
+MD5Sum:
+ f2ed2b3e694094c5727ef3564c7cfcec             2949 main/binary-amd64/Packages
+ 1df298af0a758c4ed72c7af4e7b58857             1057 main/binary-amd64/Packages.gz
+ c0fba93e51a10e1d61da5f7317fd1349             2949 main/binary-arm64/Packages
+ 97c1b11e8ab6f3a913de698ca201860b             1065 main/binary-arm64/Packages.gz
+SHA1:
+ c3cd1517adfcdced4f2e9f1edccbec7d32b9ddf7             2949 main/binary-amd64/Packages
+ 976760bf18749562f9c0c5941dbeaeeb323a4d50             1057 main/binary-amd64/Packages.gz
+ 3d2b7176dc428b843c22c85abed71f82604b42e5             2949 main/binary-arm64/Packages
+ be42b586db28781bdea2cf21667a82e10f0ee250             1065 main/binary-arm64/Packages.gz
+SHA256:
+ ffcbd8e26106127e3cff9d0ae89f1be48fd67280a0f99994d6a80114f6077cbe             2949 main/binary-amd64/Packages
+ 495312572b9766ccaec92a23706b6a4a5e2e3541e1c536b0b558b50af2d2398d             1057 main/binary-amd64/Packages.gz
+ e9cace0c0642a6dbd08136f0acf2758bd1ac38944b0b6e44eff86a8a00ea8566             2949 main/binary-arm64/Packages
+ f3f63e373b97ea3b17cd491ec9251792da8bd9d3070e46758197d570f3958c6c             1065 main/binary-arm64/Packages.gz
+SHA512:
+ 9e1fc7f8c7bdeeea7bd04d5a5d72dc33318f6dbe4e37e38b88d208d80a22797495894483c1816de682f6d042b436bc8dd152b77f307426b864f1e73b71ac8d25             2949 main/binary-amd64/Packages
+ 5f0483486068bbdf18de123d61f7e46da96c79341f4d890599809a96e732708518e4d000eee50116dca156800d4222e7dad79713017bffa5a10b8a28212d4778             1057 main/binary-amd64/Packages.gz
+ 3deeea19b012e097917a07658026f232042de33cebd65f4ddf633b41232be0ee1197dd5d5497aec4fcaa2ed70c31b39cbbfc308639624e584f539b04643c77e7             2949 main/binary-arm64/Packages
+ 1ca67b0f90582f7c095acdb0410166670d3963fa056901c1ce047fded141a5ea34f7a38332b41a862fc800a2001df39d94557815c90a05e0608ee2a9797de7ef             1065 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQRyPxCgpIHp+VjjzH6oEq/mKnaRwUCarvCXQAKCRD6oEq/mKna
+R96XAQDMTT949iIL22QGZJGDl0QEqDhK5IlrXiqQAI0KBRABiQEA6rOt0q/v5dBP
+X2DkHyGyEhOzMVa/ag1FRQ1Ta5I8jgA=
+=mBtH
+-----END PGP SIGNATURE-----

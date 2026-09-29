@@ -1,0 +1,63 @@
+Package: swift-cardano-multitool
+Architecture: amd64
+Version: 0.15.2
+Priority: optional
+Section: utils
+Maintainer: Kingpin Apps <hadderley@kingpinapps.com>
+Installed-Size: 155356
+Depends: libc6 (>= 2.35), libcurl4, libstdc++6, libgcc-s1
+Conflicts: scm
+Filename: pool/main/s/swift-cardano-multitool/swift-cardano-multitool_0.15.2_amd64.deb
+Size: 37276968
+MD5sum: ea4da6be7bced5ff4b9343fe2a16fcb2
+SHA1: bad70b4014de821b5ed87c6189d226205a5c0bff
+SHA256: d494e1a2d65e06bb9d575dd14bdce95f13d7d3bf038a1fc4f9bbfd8ddb47eed7
+SHA512: 524c64640d6b623435df044f4c35f2cd22fa73a67669273d21252574d5c62911d81ed67bbeb466c949bbefd11b5ffaab26d3fbb28072b6457aeb5eca63a0d87b
+Homepage: https://github.com/Kingpin-Apps/swift-cardano-multitool
+Description: TUI for Cardano blockchain interactions
+ scm manages the Cardano ecosystem from the terminal: installing and running
+ node software, generating keys, building and submitting transactions,
+ querying on-chain data, and working with air-gapped machines.
+
+Package: swift-cardano-multitool
+Architecture: amd64
+Version: 0.16.0
+Priority: optional
+Section: utils
+Maintainer: Kingpin Apps <hadderley@kingpinapps.com>
+Installed-Size: 158076
+Depends: libc6 (>= 2.35), libcurl4, libstdc++6, libgcc-s1
+Conflicts: scm
+Filename: pool/main/s/swift-cardano-multitool/swift-cardano-multitool_0.16.0_amd64.deb
+Size: 37608948
+MD5sum: e598f4a8708d575723277bc300689446
+SHA1: b83b509874e5706e7971d308ba01320f9616d0bb
+SHA256: ea5fa0904b9b5c56f1d8fad1b95ce872d064785ea5a4ef2f9aff19c228249ba9
+SHA512: 44557a13d3af53ad7578bd543af261903464d596a7bb0a0de43995b7f766a0047fad37b78abfd07a4463f1dd15e450124bae6246c25f8f5c6643a72f96f94f36
+Homepage: https://github.com/Kingpin-Apps/swift-cardano-multitool
+Description: TUI for Cardano blockchain interactions
+ scm manages the Cardano ecosystem from the terminal: installing and running
+ node software, generating keys, building and submitting transactions,
+ querying on-chain data, and working with air-gapped machines.
+
+Package: swift-cardano-multitool
+Architecture: amd64
+Version: 0.17.0
+Priority: optional
+Section: utils
+Maintainer: Kingpin Apps <hadderley@kingpinapps.com>
+Installed-Size: 158176
+Depends: libc6 (>= 2.35), libcurl4, libstdc++6, libgcc-s1
+Conflicts: scm
+Filename: pool/main/s/swift-cardano-multitool/swift-cardano-multitool_0.17.0_amd64.deb
+Size: 37632712
+MD5sum: 13182efff651e0a55f1a9bc232c59040
+SHA1: e6e2771e7eecccfe883529c8c93c5b160ac6c7d5
+SHA256: 56c26edfe37b717cb9365ca15456cfb0544bb702af41469ac63b2aa81b506a0b
+SHA512: 9f89e811595a79e28ef6a62f6700bc75d4faa0df1c25ebef2853267e7515836cc6713b6ad6508d2999517cde728eacb992665f3ef14fc29ba2eb7d93974c0d23
+Homepage: https://github.com/Kingpin-Apps/swift-cardano-multitool
+Description: TUI for Cardano blockchain interactions
+ scm manages the Cardano ecosystem from the terminal: installing and running
+ node software, generating keys, building and submitting transactions,
+ querying on-chain data, and working with air-gapped machines.
+
