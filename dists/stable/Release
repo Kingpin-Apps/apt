@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sun, 08 Nov 2026 23:14:24 +0000
+Label: Kingpin Apps
+Origin: Kingpin Apps
+Suite: stable
+MD5Sum:
+ 9fc55e6f70fbcb1374e29f2815036e77             2955 main/binary-amd64/Packages
+ 8e58637eb1686a35bb17f91203c169b9             1053 main/binary-amd64/Packages.gz
+ 8ec62f4ea78872767a1c6c48702a8443             2955 main/binary-arm64/Packages
+ 911ea648b04d17fa77d5397abc1282b7             1044 main/binary-arm64/Packages.gz
+SHA1:
+ 74a08bf883d5fab46c634e2a05a65ef48dfdc45c             2955 main/binary-amd64/Packages
+ d8bcf9e4ac6e0413ab09707d16d212e390bd9c1f             1053 main/binary-amd64/Packages.gz
+ 933d45fd621b06183ff3b363ab8ea69ee19973e6             2955 main/binary-arm64/Packages
+ 1c81261128b120720443effd518286de0c61afab             1044 main/binary-arm64/Packages.gz
+SHA256:
+ 530462daba197c43c034586de38cc5f2cd45ae1a2b5384486d485542970ae2a4             2955 main/binary-amd64/Packages
+ 6d775df0970e4a5c42ac27a3f979428d9c6cad1cf8a9666a7d77d317b0513a5b             1053 main/binary-amd64/Packages.gz
+ ceda67251a3abc00cf2758ee13bb7faa90d3909557f40eb4900653e99c246077             2955 main/binary-arm64/Packages
+ 4fe2a63c5fa0db6329d66befd691908bb0d2134eee0cdd3484ae8cacfcb83b93             1044 main/binary-arm64/Packages.gz
+SHA512:
+ dad234d59d68250a2e0c162fcc9690ca13b3c795fa11881f66da048de33084c706da84e3cb0c4bed0eff9809634bdf26dcb8f39c55f121b45274ad4584d7cc8f             2955 main/binary-amd64/Packages
+ 6a5088905440ee295daf06850355469570ee7d445486bef7ced015fe0cda25ba2f7657b4617ead45a83e7f6453deb1ee54510a38991769fd6066f9164cf7ca6d             1053 main/binary-amd64/Packages.gz
+ 43e077754747fd39316646f0ecbe8a84152e8aaf77dc5b43285aeef9f18788089f0899ff756a61dda0360342070e3f56a004d00928ac78d812669457de8b9e31             2955 main/binary-arm64/Packages
+ 23b0f4d745db9e360a89e0865a0415cb1853716a81d31c4a319b96a79052798e5fd18355e28ee43c93046235e53e7e8b8d835b7a78ac4560d0aef36c6ed055ba             1044 main/binary-arm64/Packages.gz
